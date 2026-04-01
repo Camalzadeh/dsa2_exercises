@@ -1,0 +1,16 @@
+size of dictionary is 74808
+Please enter a word to search for: key outrage  not found
+Please enter a word to remove: key outrage  not found
+* Search for the first 2000 items ...
+size of dictionary is 74808
+* Remove the first 2000 items ...
+size of dictionary is 0
+----------------- statistics ------------------
+time for dictionary full insertion	13,1606 sec
+time for search (specified)		0 sec
+time for dict search (first 2000)	0,668338 sec
+time for dictionary size		0,001505 sec
+time for remove (specified)		0,001095 sec
+time for remove (first 2000)		0 sec
+time for dictionary delete		0 sec
+-----------------------------------------------

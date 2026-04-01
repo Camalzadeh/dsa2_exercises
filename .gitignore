@@ -1,0 +1,10 @@
+# Project Docs
+docs/
+
+# Compilations and Binaries
+*.o
+*.exe
+*~
+
+# Library Archives
+*.tar.gz
