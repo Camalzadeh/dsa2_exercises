@@ -14,6 +14,11 @@ This task focuses on implementing robust hash functions and a collision-free has
 - **Source Code & Jobs:** `./hash_map/`
 - **Library Files:** `./hash_map/hashmap-students/`
 
+### 3. Heaps (Max-Heap & Heap Sort)
+Implementation of a Max-Heap data structure with tree navigation, heapify operations, and Heap-Sort algorithm.
+- **Source Code:** `./heap/`
+- **Library Files:** `./heap/heap-students/`
+
 ## Overall Compilation
 
 Each directory contains its own `Makefile`. To compile each task, navigate to its respective directory and run `make`. 
