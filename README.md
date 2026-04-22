@@ -19,6 +19,11 @@ Implementation of a Max-Heap data structure with tree navigation, heapify operat
 - **Source Code:** `./heap/`
 - **Library Files:** `./heap/heap-students/`
 
+### 4. Graphs (Adjacency List, BFS, DFS)
+Implementation of a Graph data structure using adjacency lists, alongside fundamental graph traversal algorithms (Breadth-First Search and Depth-First Search).
+- **Source Code:** `./graphs/`
+- **Library Files:** `./graphs/graph-students/`
+
 ## Overall Compilation
 
 Each directory contains its own `Makefile`. To compile each task, navigate to its respective directory and run `make`. 
